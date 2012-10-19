@@ -1,0 +1,7 @@
+BIODATA
+
+Nama   :  Tiara Nurul Anggraeni
+NPM    :  45090210012
+Matkul :  Praktikum Pemrograman 3
+
+akun   :  tiaratiara
